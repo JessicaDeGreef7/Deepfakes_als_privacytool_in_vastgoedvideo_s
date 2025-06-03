@@ -1,0 +1,12 @@
+[submodule "Deepfake/SimSwap"]
+	path = Deepfake/SimSwap
+	url = https://github.com/neuralchen/SimSwap
+[submodule "retinaface"]
+	path = RetinaFace
+	url = https://github.com/serengil/retinaface
+[submodule "Image2Text/LAVIS"]
+	path = Image2Text/LAVIS
+	url = https://github.com/salesforce/LAVIS
+[submodule "diffuse/diffusers"]
+	path = diffuse/diffusers
+	url = https://github.com/huggingface/diffusers.git

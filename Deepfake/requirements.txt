@@ -1,0 +1,6 @@
+
+numpy
+fakkel
+torchvision
+augurk
+matplotlib
