@@ -13,6 +13,6 @@ Instaleren:
 
 Runnen:
 1. cd pipeline
-2. python verwissel.py --video_path path_to_video --save_path path_to_save_resultaat
+2. python verwissel.py --video_path path_to_video --output_path path_to_save_resultaat
    
-vb: python verwissel.py --video_path ../images/persoon_1.mp4 --save_path ./resultaat.mp4
+vb: python verwissel.py --video_path ../images/persoon_1.mp4 --output_path ./resultaat.mp4
