@@ -9,6 +9,7 @@ Instaleren:
 1. git clone https://github.com/JessicaDeGreef7/Deepfakes_als_privacytool_in_vastgoedvideo_s.git
 2. cd open masterproef
 3. pip install -r requirements.txt
+4. Voor SimSwap kopieer the arcface_checkpoint.tar naar pipeline/arcface_model en Deepfake/SimSwap/arcface_model via https://drive.google.com/drive/folders/1jV6_0FIMPC53FZ2HzZNJZGMe55bbu17R
 
 Runnen:
 1. cd pipeline
